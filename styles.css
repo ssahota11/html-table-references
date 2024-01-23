@@ -1,0 +1,39 @@
+ body {
+    background-color: #D3D3D3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ h1, h2 {
+    text-align: center;
+ }
+
+ h2 {
+    color: #8B008B;
+ }
+
+ table {
+    margin: auto;
+ }
+ 
+ table, th, td {
+    border: 1px solid #8B008B;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #dda0dd;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tag {
+    font-family: monospace, serif;
+}
+td {
+    padding-right: 10px;
+}
+
+td span {
+    background-color: #F0F8FF;
+}
